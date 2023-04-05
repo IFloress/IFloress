@@ -11,9 +11,10 @@
 🟨 Afinidade nos seguintes FrameWorks ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats&count">
+<a href="https://github.com/IFloress/github-readme-stats&count">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IFloress&_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/IFloress/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFloress&hide_progress=true_icons=true&theme=dracula&layout=compact" />
 </a>
+
